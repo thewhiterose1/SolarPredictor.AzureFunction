@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "SolarPredictor.AzureFunction": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7206",
+      "environmentVariables": {
+        "APPCONFIG_CONNECTION": "Endpoint=https://solarpredictorappconfig.azconfig.io;Id=XNhy-lo-s0:7tii5YFKAVZGOn1Nu4N3;Secret=oWBqLuA6HWPAQ4p+8j9V97+rkxFXocxo3JSX/cGfdmY="
+      }
+    }
+  }
+}
